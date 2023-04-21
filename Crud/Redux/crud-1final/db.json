@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "Grey Sweatpants",
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "brand": "Brand D",
+            "price": 29.99,
+            "category": "shoes",
+            "gender": "women"
+          },
+          {
+            "name": "White Sneakers",
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "brand": "Brand E",
+            "price": 99.99,
+            "category": "shoes",
+            "gender": "women"
+          },
+          {
+            "name": "Green Polo",
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "brand": "Brand F",
+            "price": 39.99,
+            "category": "shirt",
+            "gender": "men"
+          },
+          {
+            "name": "Yellow Jacket",
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "brand": "Brand G",
+            "price": 89.99,
+            "category": "shirt",
+            "gender": "kids"
+          },
+          {
+            "name": "Yellow Jacket",
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "brand": "Brand G",
+            "price": 89.99,
+            "category": "pants",
+            "gender": "kids"
+          }
+   
+   
+    ]
+  }

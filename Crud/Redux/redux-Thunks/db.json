@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "React",
+      "status": true
+    },
+    {
+      "title": "res",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "CSS",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Java",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
